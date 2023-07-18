@@ -1,0 +1,233 @@
+body{
+    font-family: "sHelvetica Neue" 1.5rem ;
+    background-image: url(elefante\ 1.webp) ;
+    background-size: cover ;
+    background-color:black;
+  
+} 
+
+
+
+
+
+
+#encabezado{ 
+   
+    
+    background-image: url(elefante.jpg) ;
+    background-size: cover ;
+    background-color:white;
+    margin-top: -1%;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    
+    background-position: left -60px;
+   
+
+    background-color:  #ecf3ff9f;;;
+}
+#centro{
+    font-size: 20px;
+    color: black;
+    margin-left: 15%;
+}
+#enlaces{
+    position: sticky;
+    top: 0;
+
+ 
+   display: flex;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    font-size: 30px;
+    background-color: rgba(0, 0, 0, 0.844);
+    
+}
+a{ 
+   
+    margin-left: 150%;
+    text-decoration: none;
+    color: #fff;
+    transition:all.9s;
+}
+a:hover{
+    
+    border-radius: 10px;
+    background-color: none;
+   
+}
+.a{
+    margin-left: 10%;
+    transition:all.9s;
+}
+.a:hover{
+    transform: scale(1.1);
+}
+#perro-gato{
+   margin-top: -10%;
+    margin-left: 50%;
+    width: 150px;
+}
+#p{
+    margin-left: 40%;
+
+}
+#h1{
+    
+    margin-left: 40%;
+}
+
+.educacion{
+   
+   
+    margin-top: -100%;
+    border-radius: 10px;
+    border: solid 4px #ffffff6f ;
+    
+    margin-top: 90px;
+    display: grid;
+    place-items: center;
+   
+    width: 55.7%;
+    background-color:#ecf3ff9f;;
+}
+.educa{ 
+    padding: -10;
+    font-size: 23px;
+    border-top-left-radius:10px ;
+    border-top-right-radius:10px ;
+    text-align: center;
+    width: 99.8%;
+    background-color:black;
+}
+h2{
+    color: #fff;
+}
+#gato{
+    margin-top: -20%;
+    margin-left: 40%;
+    width: 100px;
+}
+#gato1{
+    margin-top: -20%;
+    margin-left: 40%;
+    width: 100px;
+}
+.viaje{
+    border-radius: 10px;
+    border: solid 3px #ffffff6f ;
+    
+
+    margin-top: 100px;
+    display: grid;
+    place-items: center;
+    height:90%;
+    width: 50%;
+    background-color:#ecf3ff9f;;
+    
+}
+ form{ 
+    
+    width: 30%;
+    
+   
+    background-position: left;
+    background-repeat: repeat;
+    border-radius: 10px;
+    text-align: center;
+    padding-bottom: 10px;
+    margin-top: -46%;
+    margin-left: 65%;
+    transition:all.9s;
+
+  
+   
+    background-color: rgba(0, 0, 0, 0.844);;
+ }
+ form:hover{
+    background-image: url(elefante.jpg);
+     background-position: top right;
+     background-repeat: no-repeat;
+     background-size: cover ;
+ }
+ #hora1{
+    color: #fff;
+    margin-left: 39.9%;
+    width: 20%;
+    margin-top:0%;
+    border: solid #fff 1px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border: solid 1px blue;
+    
+    color:#fff;
+ }
+ #hora1:hover{
+    background-color: rgba(0, 0, 255, 0.607);
+ }
+ #hora{
+    margin-top: 0;
+   
+ }
+ #fecha{
+    margin-bottom: 2%;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+ }
+ #cita{ 
+   
+    font-size: 23px;
+    background-color: black;
+    color: #fff;
+    border-top-left-radius:10px ;
+    border-top-right-radius:10px ;
+
+ }
+ input{
+    background-color: #fff;
+    text-align: center;
+     border-radius:10px ;
+    border: none;
+    margin-top: 11px;
+    padding: 3.8%;
+    width: 70%;
+    
+ }
+
+ 
+ #enviar{
+    font-size: 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: transparent;
+    border: solid 1px blue;
+    width: 40%;
+    color:#fff;
+transition:all.9s;
+ }
+ #enviar:hover{
+    background-color: rgba(0, 0, 255, 0.533);
+   transform: scale(1.1);
+  
+ }
+ select{
+    background-color: #fff;
+     border-radius:10px ;
+    border: none;
+    margin-top: 11px;
+    padding: 3.8%;
+    
+ }
+ #contacto{
+    
+    margin-bottom: 0;
+   margin-top: 280px;
+    text-align: center;
+    background-color:rgba(0, 0, 0, 0.844);
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+ }
+ #contacto2{
+    color: #fff;
+ }
+
+ 
